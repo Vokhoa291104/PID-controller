@@ -1,0 +1,54 @@
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\huynh\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\MY JOB\HK232\EE3185-DO AN 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\MY JOB\HK232\EE3017- DO LUONG VA DIEU KHIEN BANG MAY TINH\NHOM19-DLDKMT-BAO_CAO_TIEU_LUAN\NHOM 19_FILE THIET KE+CHUONG TRINH\NHOM 19_CODE FIRMWARE(VISUAL STUDIO 2022)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\MY JOB\HK232\EE3017- DO LUONG VA DIEU KHIEN BANG MAY TINH\NHOM19-DLDKMT-BAO_CAO_TIEU_LUAN\NHOM 19_FILE THIET KE+CHUONG TRINH\NHOM 19_CODE FIRMWARE(VISUAL STUDIO 2022)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
